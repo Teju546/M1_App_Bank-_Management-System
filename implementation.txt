@@ -1,0 +1,5 @@
+IMPLEMENTATION:
+
+Implementation is the realization, application, or execution of a plan, idea, model, design, specification, standard algorithm, or policy.
+
+The design must be translated in to machine-readable form. The code generation step performs their tasks. If design is performed in a detailed manner, code generation can be accomplished mechanistically.
