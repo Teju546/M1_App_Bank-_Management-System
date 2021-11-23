@@ -1,0 +1,9 @@
+  customer account banking management
+    Welcome  to the main menu
+1.create new account
+2.update information of existing account
+3.For transactions
+4.check the details ofexisting account
+5.Removing existing account
+6.view customer's list
+7.Exit
