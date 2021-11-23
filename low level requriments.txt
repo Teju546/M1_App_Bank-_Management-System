@@ -1,2 +1,0 @@
-A function is described as a set of inputs, the desired or controlled behavior, and outputs. Low-level requirements may be calculations, technical details, data manipulation and processing and other specific functionality that define what a system is supposed to accomplish in order to meet the high-level software requirements from which it is derived through software design analysis.
-
