@@ -1,0 +1,2 @@
+High-level requirements may impose constraints on the design or implementation (such as performance requirements, security, or reliability) that need to be broken down into functional requirements that can be implemented. Generally, functional requirements are expressed in the form “the feature shall <requirement>”.
+
