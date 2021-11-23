@@ -1,0 +1,4 @@
+Banking Domain Testing
+Banking Domain Testing is a software testing process of a banking application for functionality, performance, and security. The main purpose of testing banking application is to ensure that all the activities and functionalities of a banking software run smoothly with no errors and it remains protected.
+
+The BFSI (Banking, Financial services and Insurance) sector is the biggest consumer of IT services. Banking Applications directly deal with confidential financial data. It is mandatory that all the activities performed by banking software run smoothly and without any error. Banking software perform various functions like transferring and depositing fund, balance inquiry, transaction history, withdrawal and so on. Testing banking application assures that these activities are not only executed well but also remain protected from hackers.
