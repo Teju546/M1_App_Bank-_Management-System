@@ -1,0 +1,16 @@
+Project management can be regarded as a multipurpose techno-managerial activity. The diversity of its applications necessitates making PM inclusive. One way to do that is to broaden its knowledge circumference by integrating new tools and techniques with an aim to enhance the quality of PM processes and the quality of products / services produced using these processes. Yet, in hindsight, it seems that use of quality management tools and techniques have not captured the deserved attention from people working on the projects. There could be several reasons; from people lacking knowledge or intent (or both) of how to use quality management in projects, to a more systematic problem of lack of integration of tools, techniques, standards and general awareness for people to use quality management techniques regularly and effectively.
+
+What: Thinking of What initiates the process of understanding the basics of issue, problem or scenario at hand. It is about cognitive mapping of the scope of the issue, problem, or scenario.
+
+Why: Asking ‘Why’ entails clarifying why the issue, problem or situation at hand occurred. It aims to identify the triggers and rationalizes the occurrence of an issue or a problem.
+
+When: This element is about time-stamping the occurrence of an issue or a problem. Having an understanding of the time of occurrence could help in sequencing the triggers and impact of the issue, or problem.
+
+Where: This element is used to pinpoint the location or place of occurrence and hence could be helpful in identifying the people and other things present / existing at that location which may have contributed to the occurrence of an issue or problem.
+
+Who: This is about identifying people who may have direct or indirect involvement in causing or contributing to the issue or problem.
+
+How: This element of technique is used to examine the sequence of things and triggers and how the resultant problem or issue unfolded.
+
+How much: This indicates the quantity, volume or size.
+
