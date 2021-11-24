@@ -1,1 +1,34 @@
+unit_test.c
+
+#include "unity.h"
+#include "header.h"
+void setUp()
+{
+
+}
+void teardown()
+{
+
+}
+void test_main(void)
+{
+printf("\nEnter the name:");
+    scanf("%s",add.name);
+    printf("\nEnter the date of birth(mm/dd/yyyy):");
+    scanf("%d/%d/%d",&add.dob.month,&add.dob.day,&add.dob.year);
+    printf("\nEnter the age:");
+    scanf("%d",&add.age);
+    printf("\nEnter the address:");
+    scanf("%s",add.address);
+    printf("\nEnter the citizenship number:");
+    scanf("%s",add.citizenship);
+    printf("\nEnter the phone number: ");
+}
+int main()
+{
+    UNITY_BEGIN();
+    RUN_TEST(test_main);
+
+    return UNITY_END();
+}
 
