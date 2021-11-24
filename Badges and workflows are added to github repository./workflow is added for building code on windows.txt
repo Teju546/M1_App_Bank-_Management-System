@@ -1,0 +1,32 @@
+Windows Workflow
+
+Build Custom Activities To Extend The Reach Of Your Workflows
+
+Matt Milner
+
+This article is based on a prerelease version of the .NET Framework 3.0. All information herein is subject to change.
+
+TABLE 1
+This article discusses:
+
+Building basic and composite activities
+Asynchronous and event-based activities
+Customizing the design experience
+Validation and error handling
+This article uses the following technologies:
+.NET Framework 3.0
+Code download available at: Work flow 2006_12.exe(178 KB)
+
+Contents
+
+Building a Basic Activity
+Dependency Properties
+Building Composite Activities
+Asynchronous and Event-Based Activities
+Handling Errors
+Design Experience
+Validation
+Conclusion
+
+Custom workflow activities are one of the most important aspects of the Windows® Workflow Found­a­tion and there are many features to consider when building them. In their January 2006 article, "Simplify Development with the Declarative Model of Windows Workflow Foundation," Don Box and Dharma Shukla discussed the core ideas of building workflows and the interactions between the workflow runtime and activities (see msdn.microsoft.com/msdnmag/issues/06/01/WindowsWorkflow­Foundation). In this article, I will cover the core components required for building custom activities for your business domain, including runtime responsibilities, design time experience, and asynchronous activity development.
+
